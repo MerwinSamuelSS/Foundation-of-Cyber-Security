@@ -6,6 +6,6 @@ Having a strong understanding about these topics will give a clear and a solid f
 
 ## CISSP and its Domains
 
-<img width="1024" height="1066" alt="CISSP 8 domains infographic overview" src="https://github.com/user-attachments/assets/faa36db8-ffd0-479e-bea1-d7f756755b6d" />
+<img width="656" height="538" alt="29 03 2026_23 20 32_REC" src="https://github.com/user-attachments/assets/21bbf537-fad0-4f75-922c-1cc049c6a45a" />
 
 Above is the short and easy understandable Diagrmatic representation of the CISSP.
